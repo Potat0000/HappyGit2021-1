@@ -1,5 +1,3 @@
-happy{Git_br@nch_1s_useFul!}
-
 # 提交视图之间的差异
 
 在 GitHub 上，您可以按以下方式查看仓库的提交历史记录：
